@@ -1,2 +1,3 @@
 # Diabetes_Prediction
-Predicting diabetes using machine learning.
+Lecture notes of a workshop.
+Predicting diabetes using machine learning with step by step explanation.
